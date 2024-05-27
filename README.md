@@ -11,7 +11,7 @@ I'm Ankit Singh, an enthusiastic Android developer with a passion for crafting s
 
 ### 🌟 Featured Projects:
 - **Notes App:** It helps user to recall the small but important task of daily life.
-- **Car Rental we bsite:** It is a website which helps peple to get their dream car rent , also helps in Car industry.
+- **Car Rental website:** It is a website which helps peple to get their dream car rent , also helps in Car industry.
 
 ### 🛠️ Languages and Tools:
 - **Languages:** Java, Kotlin
