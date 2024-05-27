@@ -10,13 +10,14 @@ I'm Ankit Singh, an enthusiastic Android developer with a passion for crafting s
 - **Continuous Learning:** Always exploring new tools and techniques to enhance my development skills.
 
 ### 🌟 Featured Projects:
-- **Project Name:** A brief description of an impressive project, highlighting the technologies used and the problem it solves.
-- **Project Name:** Another key project, showcasing unique features or innovations.
+- **Notes App:** It helps user to recall the small but important task of daily life.
+- **Car Rental we bsite:** It is a website which helps peple to get their dream car rent , also helps in Car industry.
 
 ### 🛠️ Languages and Tools:
 - **Languages:** Java, Kotlin
-- **Tools:** Android Studio, Git, Gradle, Retrofit, Room, Dagger, Jetpack Compose
+- **Tools:** Android Studio, Git, Gradle, Retrofit, Room, Dagger, Jetpack Compose, FireBase, SQLite, VS Code, Intellij Idea Community Edition.
 - **CI/CD:** Jenkins, GitHub Actions
+- and learning new Things daily......
 
 
 
