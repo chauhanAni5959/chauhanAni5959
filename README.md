@@ -1,25 +1,42 @@
+Hi there, I'm Ankit Singh! 👋👨‍💻
+✨ Enthusiastic MERN Stack Developer | Building seamless, end-to-end web applications ✨
 
-## Hi there! 👋
+With hands-on expertise in MongoDB, Express.js, React.js, and Node.js, I leverage the modern web ecosystem to deliver robust, scalable, and responsive digital solutions.
 
-I'm Ankit Singh, an enthusiastic Android developer with a passion for crafting seamless, high-performance mobile applications. With expertise in both Java and Kotlin, I leverage the best of both worlds to deliver robust and scalable solutions. 
+🚀 What I Do
+🌐 Full Stack Development: Building dynamic, end-to-end web applications using the MERN stack.
 
-### 🚀 What I Do:
-- **Android Development:** Creating intuitive and dynamic mobile apps using the latest Android technologies.
-- **Code Craftsmanship:** Writing clean, maintainable, and efficient code.
-- **UI/UX Design:** Implementing beautiful and user-friendly interfaces.
-- **Continuous Learning:** Always exploring new tools and techniques to enhance my development skills.
+🎨 Frontend Engineering: Creating responsive, user-friendly, and lightning-fast interfaces with React, Vite, HTML5, Tailwind CSS, and CSS3.
 
-### 🌟 Featured Projects:
-- **Notes App:** It helps user to recall the small but important task of daily life.
-- **Car Rental website:** It is a website which helps peple to get their dream car rent , also helps in Car industry.
+⚙️ Backend & APIs: Developing secure, scalable RESTful APIs with Node.js and Express, alongside efficient database management using MongoDB and Mongoose.
 
-### 🛠️ Languages and Tools:
-- **Languages:** Java, Kotlin
-- **Tools:** Android Studio, Git, Gradle, Retrofit, Room, Dagger, Jetpack Compose, FireBase, SQLite, VS Code, Intellij Idea Community Edition.
-- **CI/CD:** Jenkins, GitHub Actions
-- and learning new Things daily......
+🧠 Continuous Learning: Constantly tackling Data Structures & Algorithms (DSA) and exploring new tools to sharpen my coding skills.
 
+🌟 Featured Projects
+🗣️ [Loom]
+A comprehensive language exchange platform.
 
+Tech: React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB
 
+Features: Secure JWT authentication, learner discovery, and Stream-powered one-to-one real-time chat and video calling.
 
+📈 [Crypto Tracker App]
+A responsive cryptocurrency tracking dashboard.
 
+Tech: React, Vite, REST APIs
+
+Features: Integrates CoinGecko API for real-time market data, live pricing, and 7-day trend visualizations for deep market analysis.
+
+🛠️ Languages and Tools
+💻 Frontend: ⚛️ React.js | 🟨 JavaScript (ES6+) | 🟧 HTML5 | 🟦 CSS3 | ⚡ Vite | 💨 Tailwind CSS
+
+🗄️ Backend: 🟩 Node.js | 🚂 Express.js | 🍃 MongoDB | 🦝 Mongoose | 🔌 RESTful APIs
+
+🔧 Tools & Deployment: 🐙 Git | 🐱 GitHub | 🚀 Postman | 💻 VS Code | ▲ Vercel | ☁️ Render
+
+⚡ Beyond Coding
+🎸 When I step away from the keyboard, I love relaxing by learning new chords on the guitar.
+
+🏎️ I'm a big fan of high-speed action and sports, always keeping up with Formula 1 and intense IPL cricket matches! 🏏
+
+🌱 ...and I'm always learning new things daily! 📈
